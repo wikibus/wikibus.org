@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
   to = "https://wikibus-data-test.gear.host/:splat"
-  status = 303
+  status = 302
